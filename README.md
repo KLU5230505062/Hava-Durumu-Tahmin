@@ -1,3 +1,4 @@
+Hava Durumu
 Özellikler
 -Kullanıcıdan şehir ismini alır
 -https://wttr.in API'si ile hızlı hava durumu sorgulaması yapar.
